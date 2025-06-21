@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, my name is Maria Eduarda and I'm a programmer</p>
+<p align="left">Hello, thank you for visiting my profile!</p>
 
 ###
 
